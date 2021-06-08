@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "repro",
+  "version": "0.0.0",
+  "workspaces": [
+    "ws"
+  ],
+  "volta": {
+    "node": "16.3.0",
+    "npm": "7.16.0"
+  }
+}
