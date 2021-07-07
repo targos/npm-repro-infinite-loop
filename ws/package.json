@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "name": "repro-ws",
   "dependencies": {
-    "@nivo/scatterplot": "^0.71.0"
+    "@nivo/scatterplot": "^0.72.0"
   },
   "volta": {
     "node": "16.3.0",
